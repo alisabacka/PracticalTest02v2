@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">PracticalTest02v2</string>
+    <string name="hint_enter_word">Introduceți cuvântul</string>
+    <string name="button_lookup">Caută definiție</string>
+    <string name="definition_will_appear_here">Definiția va apărea aici</string>
+</resources>
